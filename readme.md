@@ -1,13 +1,28 @@
-# Tkinter Basics Practice
+# Tkinter GUI Practice
 
-This repository is dedicated to practicing and mastering the fundamentals of Tkinter, Python's standard library for building graphical user interfaces (GUIs). Each folder or script focuses on a specific concept, with detailed examples and explanations.
+Python desktop GUI practice with Tkinter.
 
-## Goals
-- Understand the basics of Tkinter widgets.
-- Learn how to handle events and user interactions.
-- Build simple GUI applications to solidify concepts.
-- Experiment with layouts, menus, and dialogs.
+## Purpose
 
-## Repository Structure
-The repository is organized into sections for ease of navigation:
+Tkinter helps build small desktop tools without a heavy framework. This repository practices widgets, events, layouts, menus, and simple GUI patterns.
 
+## What This Shows
+
+- Desktop GUI fundamentals
+- Tkinter widget/event handling
+- Python app structure
+
+## Stack
+
+- Python
+- Tkinter
+
+## Next Improvements
+
+- Add screenshots of GUI examples
+- Group examples by widget/layout concept
+- Add run instructions
+
+## Author
+
+Abubakar Khan Lakhwera
